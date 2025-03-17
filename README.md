@@ -40,3 +40,7 @@ The **CNN model** achieved the highest accuracy (**0.9984**) and was selected fo
 ## Google Drive Link
 Access all project files here: [Google Drive Folder](https://drive.google.com/drive/folders/1lJUwuWGWSneAnLcY_U4SCD7nuyJ-WTn7?usp=drive_link)
 
+## Fake News Detector Application
+Access the application here: [Fake News Detector](https://fakenewsdetectorlexnova.streamlit.app/)
+
+
